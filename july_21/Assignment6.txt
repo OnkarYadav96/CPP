@@ -1,0 +1,5 @@
+1. Create a class cEmployee with id as int data and name as  *char data members. 
+   Write a default constructor, parameterized constructor and demonstrate.
+
+2. Write a class with data member as a constant and a reference variable.
+   Initialze it and demonstrate the working.
