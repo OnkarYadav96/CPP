@@ -1,0 +1,6 @@
+﻿  date.cpp
+  main.cpp
+d:\code\july_23\july_23\main.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Student.cpp
+  Generating Code...
+  july_23.vcxproj -> D:\CODE\july_23\Debug\Ass1.exe

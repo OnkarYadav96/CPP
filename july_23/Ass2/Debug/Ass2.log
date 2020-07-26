@@ -1,0 +1,7 @@
+﻿  Address.cpp
+  Main.cpp
+d:\code\july_23\ass2\main.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Person.cpp
+  String.cpp
+  Generating Code...
+  Ass2.vcxproj -> D:\CODE\july_23\Debug\Ass2.exe
