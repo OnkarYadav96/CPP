@@ -1,0 +1,7 @@
+﻿  Main.cpp
+d:\code\july_28\july_28\main.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Rect.cpp
+  Shape.cpp
+  Squre.cpp
+  Generating Code...
+  july_28.vcxproj -> D:\CODE\july_28\Debug\july_28.exe

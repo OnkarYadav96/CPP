@@ -1,0 +1,8 @@
+﻿  Main.cpp
+d:\code\july_28\ass3\main.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Rect.cpp
+  Shape.cpp
+  Triangle.cpp
+d:\code\july_28\ass3\triangle.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Ass3.vcxproj -> D:\CODE\july_28\Debug\Ass3.exe
